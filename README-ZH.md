@@ -1,5 +1,4 @@
 <p align="center">
-  // @Lazy var:name>lazy-scaffold-script scope:1
   <span style="font-size: 36px">lazy-scaffold-script</span>
   <br>
   强大、智能并且简单易用的用户脚本
