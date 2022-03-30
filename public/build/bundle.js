@@ -1,18 +1,18 @@
 // ==UserScript==
-// @name        Figma i18n
+// @name        lazy-scaffold-script
 // @namespace   https://github.com/NICEXAI
 // @version     1.0.0
 // @description Powerful, intelligent and easy to use user-scripts.
 // @encoding    utf-8
 // @author      afeyer
-// @homepage    https://github.com/NICEXAI/figma-i18n
-// @supportURL  https://github.com/NICEXAI/figma-i18n/issues
-// @updateURL   https://github.com/NICEXAI/figma-i18n/blob/main/dist/figma-i18n.normal.js
-// @downloadURL https://github.com/NICEXAI/figma-i18n/blob/main/dist/figma-i18n.normal.js
-// @match       *://www.figma.com/*
+// @homepage    https://github.com/NICEXAI/lazy-scaffold-script
+// @supportURL  https://github.com/NICEXAI/lazy-scaffold-script/issues
+// @updateURL   https://github.com/NICEXAI/lazy-scaffold-script/blob/main/dist/lazy-scaffold-script.normal.js
+// @downloadURL https://github.com/NICEXAI/lazy-scaffold-script/blob/main/dist/lazy-scaffold-script.normal.js
+// @match       *://www.abc.com/*
 // @run-at      document-end
 // @icon        https://static.figma.com/app/icon/1/favicon.png
-// @license     Apache; https://github.com/NICEXAI/figma-i18n/blob/main/LICENSE
+// @license     Apache; https://github.com/NICEXAI/lazy-scaffold-script/blob/main/LICENSE
 // @grant       GM_setValue
 // ==/UserScript==
 
@@ -379,8 +379,8 @@ var app = (function () {
     const app = new App({
         target: document.body,
         props: {
-            runMode: RunMode.Dev
-        }
+            runMode: RunMode.Dev,
+        },
     });
 
     return app;
