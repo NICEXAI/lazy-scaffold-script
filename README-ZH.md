@@ -6,7 +6,7 @@
   <br>
   <a href="https://svelte.dev/"><img src="https://img.shields.io/:Svelte-3.0.0-green.svg" alt="Apache License"></a>
   <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/:TypeScript-4.0.0-yellow.svg" alt="Apache License"></a>
-  <a href="https://github.com/NICEXAI/figma-i18n/blob/main/LICENSE"><img src="https://img.shields.io/:License-Apache-blue.svg" alt="Apache License"></a>
+  <a href="https://github.com/NICEXAI/lazy-scaffold-script/blob/main/LICENSE"><img src="https://img.shields.io/:License-Apache-blue.svg" alt="Apache License"></a>
   <br>
   <br>
   <a href="./README.md">English</a> | 中文
@@ -40,4 +40,4 @@
 
 ### 📄 开源许可证
 
-[Apache License](https://github.com/NICEXAI/figma-i18n/blob/main/LICENSE) © 2022-PRESENT [Afeyer](https://github.com/NICEXAI)
+[Apache License](https://github.com/NICEXAI/lazy-scaffold-script/blob/main/LICENSE) © 2022-PRESENT [Afeyer](https://github.com/NICEXAI)

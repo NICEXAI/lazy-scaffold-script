@@ -6,7 +6,7 @@
   <br>
   <a href="https://svelte.dev/"><img src="https://img.shields.io/:Svelte-3.0.0-green.svg" alt="Apache License"></a>
   <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/:TypeScript-4.0.0-yellow.svg" alt="Apache License"></a>
-  <a href="https://github.com/NICEXAI/figma-i18n/blob/main/LICENSE"><img src="https://img.shields.io/:License-Apache-blue.svg" alt="Apache License"></a>
+  <a href="https://github.com/NICEXAI/lazy-scaffold-script/blob/main/LICENSE"><img src="https://img.shields.io/:License-Apache-blue.svg" alt="Apache License"></a>
   <br>
   <br>
   English | <a href="./README-ZH.md">中文</a>
@@ -15,7 +15,7 @@
 
 ### 💽 Script Installation
 
-1. Before installing the Figma I18n script, please confirm whether the script manager is installed in the browser. If not, click the link below to choose one to install it.
+1. Before installing the user script, please confirm whether the script manager is installed in the browser. If not, click the link below to choose one to install it.
    
    * [Tampermonkey](https://www.tampermonkey.net/) 👍
    * [Violentmonkey](https://violentmonkey.github.io/get-it/)
@@ -38,4 +38,4 @@
 
 ### 📄 Open Source License
 
-[Apache License](https://github.com/NICEXAI/figma-i18n/blob/main/LICENSE) © 2022-PRESENT [Afeyer](https://github.com/NICEXAI)
+[Apache License](https://github.com/NICEXAI/lazy-scaffold-script/blob/main/LICENSE) © 2022-PRESENT [Afeyer](https://github.com/NICEXAI)
